@@ -1,0 +1,175 @@
+clear
+cat ~/.ssh/id_ed25519.pub
+ssh-keygen -t ed25519
+pwd
+cat $HOME/.ssh/*.pub
+cd /home/vagrant
+pwd
+mkdir repogit
+mkdir repogit1
+pwd
+cd repogit1
+cd $home/repogit1/
+cd /home/vagrant
+cd HOME/repogit1/
+cd home/vagrant/repogit1
+ls -l
+cd repogit
+ls -l
+git clone git@github.com:FrancoMaciel920/Tp_AySO-Rehecho-.git
+cd Tp_AySO-Rehecho-/
+pwd
+ls -l
+cat /etc/os-release
+grep HOME_URL/etc/os-release
+clearcllllllllllleard[pqwl
+cleaexit
+pwd
+cat /etc/os-release
+cat /etc/os-rele
+grep -i home_url /etc/os-release
+grep -i home_url /etc/os-release > datos_url.txt
+eadasdcaweq
+grep -i home_url /etc/os-release > datos_url.txtgrep -i home_url /etc/os-release > datos_url.txtgrep -i home_url /etc/os-release > datos_url.txt~grep -i home_url /etc/os-release > datos_url.txtl
+llllqagrant halt
+va
+ls -
+vavn
+vagrant haltexit
+clear
+grep -i home_url /etc/os-release
+grep -i home_url /etc/os-release > datos_url.txt
+ls -l
+cd repogit
+ls -l
+Tp_AySO-Rehecho-/
+ls -l
+Tp_AySO-Rehecho-/
+ls -l
+cd Tp_AySO-Rehecho-
+ls -l
+cat datos_url.txt 
+cat README.md 
+ls -l
+clear
+tree
+clear
+ls -l
+git add .
+git config --global usar.email macielfranco553@gmail.com
+git config --global user.name FrancoMaciel920
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git  push
+vagrant halt
+exit
+clear
+pwd
+ls -l
+cd repogit
+ls -l
+Tp_AySO-Rehecho-/
+pwd
+cd Tp_AySO-Rehecho-/
+pwd
+ls -l
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+cat datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt
+git add datos_usuario.txt
+git  commit -m "feat: añadiendo informacion de CPU"
+git push
+ls -l
+cat datos_usuarios.txt
+cat datos_usuario.txt
+cat <<EOF>> README.md 
+Alumno: Franco
+Division: 114
+Turno: Mañana
+EOF
+
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añandiendo Readme y datos de usuario"
+git config --global user.email macielfranco553@gmail.com
+git config --global user.name Franco
+git config --list
+git push
+ls -l
+cat datos_usuarios.txt
+cat README.md 
+clear
+cd /home/vagrant
+pwd
+mkdir -p ~/materia{1,2}/uni{1,2,3}
+ls -l
+tree 
+ls -r ~/materia*
+ls -r
+clear
+cd repogit/Tp_AySO-Rehecho-/
+PWD
+pwd
+ls -l
+cat datos_usuario.txt
+clear
+vim scrip_dir.sh
+chmod 1 script.dir.sh
+ls -l
+mv scrip_dir.sh script_dir.sh
+ls -l
+chmod 1 script_dir.sh 
+ls -l
+git add .
+chmod 777 script_dir.sh 
+git add .
+git commit -m "añandiendo script"
+cat script_dir.sh 
+git push
+vagrant halt
+exit
+clear
+ls -l
+cat README 
+ls repogit1
+cat repogit1
+cd repogit1
+ls -l
+cd ..
+ls -l
+cd repogit
+ls -l
+Tp_AySO-Rehecho-/
+ls -l
+cd Tp_AySO-Rehecho-/
+ls -l
+cat README.md 
+cat datos_url.txt 
+cat datos_usuario.txt
+cat datos_usuarios.txt
+cat script_dir.sh 
+ls -r 
+ls -l
+git add
+git push
+exit
+pwd
+clear
+cd
+ls -l
+pwd
+cd repogit
+pwd
+ls -l
+cd Tp_AySO-Rehecho-/
+ls -l
+cat script_dir.sh 
+cat README.md 
+cat datos_usuario.txt
+cat datos_usuarios.txt
+cat datos_usuario.txt
+rm datos_usuarios.txt
+ls -l
+history -a
